@@ -1,0 +1,36 @@
+.sat-btn, .sat-list-btn {
+    text-transform: none;
+    /* padding: 10px 36px; */
+    background-color: #d3e0dc;
+    font-size: 1em;
+    color: rgb(7, 7, 87);
+    border: none;
+}
+
+.sat-list-box {
+    border: 2px solid #ccc;
+    background-color: #ece2e1;
+    box-shadow: 5px 10px #cfcece;
+    border-radius: 5%;
+    height: 380px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: left;
+ }
+ 
+ .btn-container {
+    text-align: center;
+ }
+ 
+ .sat-list {
+    height: 300px;
+    overflow: scroll;
+ }
+ 
+ .spin-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 335px;
+ }
+ 
